@@ -1,6 +1,7 @@
-<p>I created this class in order to use the <b>Clickatell API</b> with the <b>unicode</b> option set to <tt>true</tt></p>
-<p>I test this class with the Clickatell utility : <br />
-<a href="https://www.clickatell.com/central/manage_products.php">https://www.clickatell.com/central/manage_products.php</a>
-Converters -> Unicode</p>
+I created this class in order to use the Clickatell API with the unicode option set to true.
 
-<p>Works well for french words.</p>
+I test this class with the Clickatell utility : 
+https://www.clickatell.com/central/manage_products.php
+Converters -> Unicode
+
+Works well for french words.
